@@ -1,5 +1,5 @@
 Extract Stable Diffusion Prompts from a png file
-=====`
+=====
 
 ## Usage
 
@@ -9,7 +9,7 @@ go get -u github.com/shhenjinti/pnginfo
 
 ## Example
 
-Quick example:
+Quick example, see [cmd/main.go](cmd/main.go)
 
 ```go
 package main
